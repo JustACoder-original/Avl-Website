@@ -1,0 +1,13 @@
+header {
+    text-align: center;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.25),rgba(0, 0, 0, 0.25)), url("Lc8fMU9j-BZtFn8oD-microphone-and-audio-mixer-PZ9UNB5-1-1.jpg");
+    background-size: cover;
+    background-position-y: bottom;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.title {
+    color: rgba(255, 255, 255, 0.856);
+    border: 15px white solid;
+}
