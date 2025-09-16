@@ -25,3 +25,9 @@ header {
     margin: 0 auto;
 }
 
+article {
+    padding: 8px;
+    margin: 30px;
+    border: 5px solid rgb(219, 216, 186);
+    border-radius: 7px;
+}
