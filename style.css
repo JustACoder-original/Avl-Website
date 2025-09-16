@@ -17,9 +17,9 @@ header {
 }
 
 .title {
-    color: rgba(255, 250, 240, 0.9);
+    color: rgba(255, 252, 247, 0.9);
     text-align: center;
-    border: 15px solid rgba(255, 250, 240, 0.9);
+    border: 15px solid rgba(255, 243, 220, 0.9);
     border-radius: 30px;
     width: 500px;
     margin: 0 auto;
