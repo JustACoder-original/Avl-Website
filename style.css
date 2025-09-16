@@ -1,6 +1,6 @@
 header {
     text-align: center;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.25),rgba(0, 0, 0, 0.25)), url("Lc8fMU9j-BZtFn8oD-microphone-and-audio-mixer-PZ9UNB5-1-1.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.25),rgba(0, 0, 0, 0.25)), url("audio-mixer.jpg");
     background-size: cover;
     background-position-y: bottom;
     padding-top: 60px;
@@ -8,6 +8,11 @@ header {
 }
 
 .title {
-    color: rgba(255, 255, 255, 0.856);
-    border: 15px white solid;
+    color: rgba(255, 255, 255, 0.85);
+    text-align: center;
+    border: 15px solid rgba(255, 255, 255, 0.87);
+    border-radius: 30px;
+    width: 500px;
+    margin: 0 auto;
 }
+
